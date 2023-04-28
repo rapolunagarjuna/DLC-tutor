@@ -1,1 +1,3 @@
 # DLC-tutor
+
+Iam a graduate student majoring in Computer Science at University of Massachusetts Boston. This semester I have taken a course on Machine Learning. I have been learning R and understanding how SVM and Clustering works. I have always been a curious student and when performing the tutorial I was getting some sense of what we are trying to do with k-means. Apart from machine learning I have been learning about AWS specifically deploying a website onto Elastic Bean stalk interacting with EC2 isntance, S3 storage. I also do backend development using Django, Express and sometime frontend development with React. In my free time I watch soccer, Iam a big arsenal fan. I have been following arsenal for the past 7years or so. 
